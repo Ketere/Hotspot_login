@@ -31,7 +31,30 @@ h2 {
     border-radius: 10px;
 }
 
+.footer {
+    text-align: center;
+    margin-top:300px;
+}
+
 
 .btn {
     margin-left: 100px;
 }
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+
+  .package, .Monthly {
+    text-align: left;
+    width: 10%;
+    margin-left: 330px;
+  }
+
+  .price {
+    text-align: right;
+    width: 40%;
+    margin-right: 100px;
